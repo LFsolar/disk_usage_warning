@@ -5,4 +5,4 @@ Steps:
 1. make file executable:
   chmod +x dis_use.py
 2. run file
-  ./dis_use
+  ./dis_use.py
